@@ -17,3 +17,8 @@ php artisan serve
 #Ejecutar en la carpeta frontend comandos
 npm install
 npm start
+
+
+Usuario de prueba
+user: admin@gmail.com
+password: asd12345
