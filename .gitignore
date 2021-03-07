@@ -4,12 +4,12 @@ frontend/npm-debug.log
 frontend/yarn-error.log
 
 # Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+backend/bootstrap/compiled.php
+backend/app/storage/
 
 # Laravel 5 & Lumen specific
-public/storage
-public/hot
+backend/public/storage
+backend/public/hot
 
 # Laravel 5 & Lumen specific with changed public path
 public_html/storage
